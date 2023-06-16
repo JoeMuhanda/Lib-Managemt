@@ -5,7 +5,7 @@ git push -u origin main
 
 
 """
-Just a basic raw code
+Just a basic raw code in Python
 Date: 18 january 2022
 Author: sejo
 Project: Student library management system
